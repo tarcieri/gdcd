@@ -1,0 +1,15 @@
+Release notes for gdcd 0.2.1
+----------------------------
+
+New releases and additional information available at:
+http://gdcd.undergrid.net/
+
+gdcd 0.2.1 can display cover art using either GdkPixbuf or Imlib.  It will use
+GdkPixbuf by default if both are available due to memory leak problems with
+Imlib.  You must have one of these installed.
+
+For additional information on installation and required dependancies, please
+read the INSTALL file.
+
+All comments/praise/complaints/bug reports/suggestions/etc. should be sent to:
+bascule@inferno.tusculum.edu

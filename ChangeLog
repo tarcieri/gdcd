@@ -1,0 +1,30 @@
+Thu,  6 Jan 2000 22:31:11 -0700  Tony Arcieri  <bascule@inferno.tusculum.edu>
+
+	* Support for GdkPixbuf added.
+
+	* CDDB and Cover Art status and control buttons added.
+
+	* New look.
+
+Sat, 30 Oct 1999 07:22:32 -0600  Tony Arcieri  <bascule@inferno.tusculum.edu>
+
+	* Pause feature added to play button.
+
+	* Basic interface beginning to appear.
+
+	* Cover art selection dialog added.
+
+Thu,  2 Sep 1999 19:06:05 -0600  Tony Arcieri  <bascule@inferno.tusculum.edu>
+
+	* Uses automake/conf now
+
+	* gdcd uses pthreads instead of fork()
+
+	* gdcd has been almost completely rewritten.  Some of the repetitious
+	  blocks were cut and pasted into the new code.  gdcd now uses pthreads
+	  instead of just fork.  This requires a newer libcdaudio that is
+	  thread safe.
+
+Sun, 22 Aug 1999 13:18:20 -0600  Tony Arcieri  <bascule@inferno.tusculum.edu>
+
+	* Initial release

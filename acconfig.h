@@ -1,0 +1,5 @@
+#undef PACKAGE
+#undef VERSION
+#undef IMLIB_IMAGING
+#undef IMAGE_PATH
+#undef DEFAULT_DEVICE

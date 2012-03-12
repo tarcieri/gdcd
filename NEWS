@@ -1,0 +1,24 @@
+New in 0.2.1:
+* GdkPixbuf support
+* CDDB and Cover Art lookup status and interrupt/disable control.
+
+New in 0.2.0:
+* New look.
+
+New in 0.1.2:
+* Bugs fixed.
+
+New in 0.1.1
+* Inexact cover art matching
+* Bugs fixed.
+
+New in 0.1.0:
+* New look.
+* Bugs fixed. 
+
+New in 0.0.3:
+* Cover art selection
+* Status display
+
+New in 0.0.2:
+* Many nasty bugs fixed.  gdcd now uses pthreads.
